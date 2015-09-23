@@ -176,7 +176,7 @@ Door Maureen Voestermans
 
 In de hal van het ziekenhuis maakt de man herhaaldelijk vreemde huppelsprongetjes. Ook heeft hij daarbij de nijging om steeds naar de grond te duiken alsof hij iets opraapt en om met twee vingers tegelijkertijd de muur aan te raken. Als de man de operatiekamer inloopt gaat hij ook ineens vreemde pikkende bewegingen maken met zijn handen, inmiddels in latex handschoenen gestoken: de operatie gaat beginnen. De man is chirurg Bennett, uitvoerig beschreven door wijlen Oliver Sacks in zijn prachtige boek Een antropoloog op Mars. Bennett lijdt aan het syndroom van Gilles de la Tourette, waarbij mensen extreem dwangmatig gedrag vertonen (en vaak ook dwangmatige gedachten hebben). Als Bennett echter zijn scalpel ter hand neemt verdwijnen zijn tics volledig: met extreme precisie snijdt hij weefsel, en hecht het even nauwkeurig weer aan elkaar.
 
-gilles
+![Giles](imgs/example.jpg "Giles")
 
 Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek en een haarscherpe concentratie. Hoewel de man beschreven door Oliver Sacks een absolute topchirurg is kan hij, los van zijn syndroom, altijd een foutje maken. Fouten zijn nou eenmaal menselijk. Zou een robot op den duur veiliger en beter zijn?
 
@@ -193,6 +193,8 @@ Op Discovery staat kunstenaar Frank Kolkman met zijn DIY Surgical Robot. DIY sta
 
 
 Frank Kolkman wilde weten of het mogelijk zou zijn om voor de do-it-yourself-ers ook een operatie robot te maken. Hij moest daarvoor ontzettend veel technische kennis opdoen en worstelde ook met patentkwesties en open-source idealen (iedereen zou idealiter de software van de robot moeten kunnen inzien en verbeteren). Bezoek hem om te weten wat je allemaal via eBay zou moeten bestellen om in geval van nood je eigen zorgrobot in elkaar te knutselen, maar vooral: zie die van hemzelf in actie!
+
+![](imgs/surgerypirate-272x182.jpg)
 
 
 
