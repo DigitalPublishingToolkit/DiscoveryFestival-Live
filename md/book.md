@@ -9,6 +9,7 @@ Enter intro text here.
 ## Discovery Festival
 
 
+**Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
 
