@@ -190,6 +190,7 @@ Maar of ze in klinische setting echt beter werk verrichten? Chirurg Jeroen Heems
 Do it yourself
 Op Discovery staat kunstenaar Frank Kolkman met zijn DIY Surgical Robot. DIY staat voor Do It Yourself: een trend waarbij mensen zelf dingen gaan doen die normaal gesproken onder het takenpakket van een expert vallen. Zo zijn er video’s op youtube waarin uitgelegd staat hoe je zelf een huis kan bouwen, maar ook hoe je zelf een vulling in je kies kan zetten:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2GC8RxLnbio" frameborder="0" allowfullscreen></iframe>
 
 
 Frank Kolkman wilde weten of het mogelijk zou zijn om voor de do-it-yourself-ers ook een operatie robot te maken. Hij moest daarvoor ontzettend veel technische kennis opdoen en worstelde ook met patentkwesties en open-source idealen (iedereen zou idealiter de software van de robot moeten kunnen inzien en verbeteren). Bezoek hem om te weten wat je allemaal via eBay zou moeten bestellen om in geval van nood je eigen zorgrobot in elkaar te knutselen, maar vooral: zie die van hemzelf in actie!
