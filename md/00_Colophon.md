@@ -8,30 +8,22 @@ Anthology item: article
 Item-id:   
 Article-title: Discovery Festival Highlights 
 Article-status: accepted  
-Author: J. Bloggs. 
-Author-email: alevdegim@siu.edu
-Author-bio: about the author  
-Editor: Jess van Zyl,
-Abstract: Enter descriptive text.   
-Keywords: digital media, festival, Discovery festival, xyz.
+Author: Monique Koopmans and Maureen Voestermans  
+Editor: <!--name-->
+Abstract: Discovery Festival is the most progressive and most mature science / art / music festival in the Netherlands. These are the festival highlights of 2015.  
+Keywords: digital media, festival, Discovery festival, music, new ideas, research, art, science, nieuwe ideeën, wetenschap.
   
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
-Font(s) used: Open Sans
+Font(s) used: LiberationMono-Regular
 
-Copyright 2015 Steve Matteson & GoogleFonts
+Licensed under the Red Hat Liberation License
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+You may find more information here:
 
-    http://www.apache.org/licenses/LICENSE-2.0
+    [redhat](https://www.redhat.com/promo/fonts/)
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+
 ...
 
 # Discovery Festival
@@ -44,6 +36,7 @@ Enter intro text here.
 ## Discovery Festival
 
 
+**Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
 
