@@ -21,3 +21,5 @@ Op Discovery staat kunstenaar Frank Kolkman met zijn DIY Surgical Robot. DIY sta
 
 
 Frank Kolkman wilde weten of het mogelijk zou zijn om voor de do-it-yourself-ers ook een operatie robot te maken. Hij moest daarvoor ontzettend veel technische kennis opdoen en worstelde ook met patentkwesties en open-source idealen (iedereen zou idealiter de software van de robot moeten kunnen inzien en verbeteren). Bezoek hem om te weten wat je allemaal via eBay zou moeten bestellen om in geval van nood je eigen zorgrobot in elkaar te knutselen, maar vooral: zie die van hemzelf in actie!
+
+![](imgs/surgerypirate-272x182.jpg)
