@@ -7,7 +7,7 @@ Dek 2 / Foyer
 
 21:30 — 22:00 / 22:40 — 23:10 /
 
-00:10 — 00:40 uur
+00:10 — 00:50 uur
 
 De 20PK-micropresentaties bestaan uit ultrakorte verhalen\
 van een breed gezelschap van sprekers, die ieder vanuit hun eigen
