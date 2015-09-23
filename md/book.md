@@ -9,27 +9,21 @@ Enter intro text here.
 ## Discovery Festival
 
 
+<<<<<<< HEAD
+**Editors:** <!-- to be added --> Discovery Festival <br>
+**Copy-editing:** <!-- to be added --> Discovery Festival<br/>
+=======
 **Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
 
+>>>>>>> origin/master
 **Design:** OK200<br/>
-**EPUB development:** PublishingLab: Gottfried Haider, Jess van Zyl<br/> 
+**EPUB development:** PublishingLab team existing out of; Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
+**Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the Amsterdam Creative Industries Network. <http://www.amsterdamcreativeindustries.com><br/> 
+**Contact:** PublishingLab, <http://www.publishinglab.org><br/>
 
-**Printer:** Print on Demand<br/>
-**Publisher:** Discovery Festival, Amsterdam, 2015<br/>
-
-
-
-**Contact**
-
-PublishingLab<br/> 
-Phone: +3120 595 1866<br/>
-Email: m.riphagen@hva.nl<br/>
-Web: <http://www.publishinglab.nl><br/>
-
-This publication is available through various print on demand services.
-For more information, and a freely downloadable PDF:
+This publication is available through various print on demand services. For more information, and a freely downloadable PDF:
 <http://**website**><br/>
 This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br/><br/>
 ![](imgs/logos/logo_publishinglab.png)
@@ -145,14 +139,13 @@ In de hal van het ziekenhuis maakt de man herhaaldelijk vreemde huppelsprongetje
 
 Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek en een haarscherpe concentratie. Hoewel de man beschreven door Oliver Sacks een absolute topchirurg is kan hij, los van zijn syndroom, altijd een foutje maken. Fouten zijn nou eenmaal menselijk. Zou een robot op den duur veiliger en beter zijn?
 
-Druifjes hechten
+###Druifjes hechten
 Technisch gezien zijn robots goed in staat tot heel secuur werk. Kijk maar eens naar deze video waarin een robot een ontvelt druifje weer vastnaait:
-
 
 
 Maar of ze in klinische setting echt beter werk verrichten? Chirurg Jeroen Heemskerk onderzocht het en kwam met tegenvallende resultaten: “ze presteren niet beter dan chirurgen, maar zijn wel peperduur”. Inderdaad kosten de dingen ruim anderhalf miljoen, plus onderhoudskosten van een ton per jaar. Toch schaffen veel ziekenhuizen ze aan om meer patiënten te trekken die vaak de (valse) hoop hebben dat een robot beter werk verricht. Niet echt netjes… Maar wie weet: wellicht dat praktijkervaring ze op den duur toch beter maakt? Een groot voordeel zou wel zijn dat ze theoretisch op afstand bestuurd kunnen worden; specialisten zouden zo letterlijk wereldwijd kunnen opereren.
 
-Do it yourself
+###Do it yourself
 Op Discovery staat kunstenaar Frank Kolkman met zijn DIY Surgical Robot. DIY staat voor Do It Yourself: een trend waarbij mensen zelf dingen gaan doen die normaal gesproken onder het takenpakket van een expert vallen. Zo zijn er video’s op youtube waarin uitgelegd staat hoe je zelf een huis kan bouwen, maar ook hoe je zelf een vulling in je kies kan zetten:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GC8RxLnbio" frameborder="0" allowfullscreen="1"></iframe>
