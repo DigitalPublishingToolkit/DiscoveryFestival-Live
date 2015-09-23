@@ -1,6 +1,6 @@
 ---
 Pr-id: Publications  
-P-id: Discovery Festival  
+P-id: Discovery Festival 2015 
 A-id: 01  
 Type (formerly called Item): book  
 Book-type: anthology  
@@ -8,12 +8,13 @@ Anthology item: article
 Item-id:   
 Article-title: Discovery Festival Highlights 
 Article-status: accepted  
-Author: J. Bloggs. 
-Author-email: alevdegim@siu.edu
-Author-bio: about the author  
-Editor: Jess van Zyl,
-Abstract: Enter descriptive text.   
-Keywords: digital media, festival, Discovery festival, xyz.
+Authors: <!-- to be added --> Discovery Festival 
+Photographers: <!-- to be added --> Discovery Festival
+Author-email: puck@discoveryfestival.nl
+Author-bio: Discovery Festival is a progressive night festival that revolves around the excitement of discovering new things. By incorporating new science, new art and new music, Discovery Festival explores the current developments in scientific research, art and technology, and creates unique interdisciplinary linkages.  
+Editors: <!-- to be added -->
+Abstract: Discovery Festival Highlights
+Keywords: digital media, festival, Discovery festival.
   
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
@@ -44,26 +45,14 @@ Enter intro text here.
 ## Discovery Festival
 
 
-**Editors:** Discovery Festival<br/>
-**Copy-editing:** PublishingLab <br/>
-
+**Editors:** <!-- to be added --> Discovery Festival <br>
+**Copy-editing:** <!-- to be added --> Discovery Festival<br/>
 **Design:** OK200<br/>
-**EPUB development:** PublishingLab: Gottfried Haider, Jess van Zyl<br/> 
+**EPUB development:** PublishingLab team existing out of; Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
+**Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the Amsterdam Creative Industries Network. <http://www.amsterdamcreativeindustries.com><br/> 
+**Contact:** PublishingLab, <http://www.publishinglab.org><br/>
 
-**Printer:** Print on Demand<br/>
-**Publisher:** Discovery Festival, Amsterdam, 2015<br/>
-
-
-
-**Contact**
-
-PublishingLab<br/> 
-Phone: +3120 595 1866<br/>
-Email: m.riphagen@hva.nl<br/>
-Web: <http://www.publishinglab.nl><br/>
-
-This publication is available through various print on demand services.
-For more information, and a freely downloadable PDF:
+This publication is available through various print on demand services. For more information, and a freely downloadable PDF:
 <http://**website**><br/>
 This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br/><br/>
 ![](imgs/logos/logo_publishinglab.png)
