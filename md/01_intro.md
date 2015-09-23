@@ -1,93 +1,12 @@
-#20PK MICRO-\
-PRESENTATIES
+# Maureen over de DIY Surgical Robot
 
-## Diverse sprekers
+### Door Maureen Voestermans
 
-Dek 2 / Foyer
+In de hal van het ziekenhuis maakt de man herhaaldelijk vreemde huppelsprongetjes. Ook heeft hij daarbij de nijging om steeds naar de grond te duiken alsof hij iets opraapt en om met twee vingers tegelijkertijd de muur aan te raken. Als de man de operatiekamer inloopt gaat hij ook ineens vreemde pikkende bewegingen maken met zijn handen, inmiddels in latex handschoenen gestoken: de operatie gaat beginnen. De man is chirurg Bennett, uitvoerig beschreven door wijlen Oliver Sacks in zijn prachtige boek Een antropoloog op Mars. Bennett lijdt aan het syndroom van Gilles de la Tourette, waarbij mensen extreem dwangmatig gedrag vertonen (en vaak ook dwangmatige gedachten hebben). Als Bennett echter zijn scalpel ter hand neemt verdwijnen zijn tics volledig: met extreme precisie snijdt hij weefsel, en hecht het even nauwkeurig weer aan elkaar.
 
-21:30 — 22:00 / 22:40 — 23:10 /
+![](imgs/example.jpg)
 
-00:10 — 00:50 uur
+Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek en een haarscherpe concentratie. Hoewel de man beschreven door Oliver Sacks een absolute topchirurg is kan hij, los van zijn syndroom, altijd een foutje maken. Fouten zijn nou eenmaal menselijk. Zou een robot op den duur veiliger en beter zijn?
 
-De 20PK-micropresentaties bestaan uit ultrakorte verhalen\
-van een breed gezelschap van sprekers, die ieder vanuit hun eigen
-fascinatie ingaan op de vraag ‘Who’s in control?’.\
-Kom luisteren, drink een biertje en laat je volgieten met nieuwe\
-ideeën en ontwikkelingen.\
-Elk verhaal bevat 20 beelden\
-die elk 20 seconden te zien zijn. De computer is onverbiddelijk.
-
-<blockquote>
-Voordeel: heel veel ideeën in\
-een korte tijdspanne, en als een onderwerp je niet aanspreekt,\
-is er snel weer iets anders.\
-</blockquote>
-
-Met:
-
-Alegria van der Zande
-
-(ontwerper)\
-over een leerexperiment
-
-Andreas Wismeijer
-
-(Tilburg University)
-
-over bondage en dominantie
-
-Anne-Marie Geurink
-
-(De Vormforensen)
-
-over economische fabels
-
-Annemarie Kalis
-
-(Universiteit Utrecht)
-
-over zelfcontrole
-
-Arjen Siegmann
-
-(Vrije Universiteit)
-
-over verliesaversie en\
-het maken van keuzes
-
-Guszti Eiben
-
-(Vrije Universiteit)
-
-over evolutionaire robotica
-
-Jasper Nijkamp
-
-(Nederlands Kanker Instituut)
-
-over navigatietechnologie\
-in de operatiekamer
-
-Karina Pálosi
-
-(kunstenaar)
-
-over The Internet of Anonymous Things
-
-Marian Verkerk
-
-(Rijksuniversiteit Groningen)
-
-over autonomie in de zorg
-
-Menno Hurenkamp
-
-(Wiardi Beckman Stichting)
-
-over keuzevrijheid in de hedendaagse maatschappij
-
-Rob van der Burg
-
-(kunstenaar)
-
-over het vergroten van de autonomie van planten
+#### Druifjes hechten
+Technisch gezien zijn robots goed in staat tot heel secuur werk. Kijk maar eens naar deze video waarin een robot een ontvelt druifje weer vastnaait:
