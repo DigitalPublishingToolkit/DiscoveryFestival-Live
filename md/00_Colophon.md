@@ -8,6 +8,7 @@ Anthology item: article
 Item-id:   
 Article-title: Discovery Festival Highlights 
 Article-status: accepted  
+<<<<<<< HEAD
 Authors: <!-- to be added --> Discovery Festival 
 Photographers: <!-- to be added --> Discovery Festival
 Author-email: puck@discoveryfestival.nl
@@ -15,24 +16,24 @@ Author-bio: Discovery Festival is a progressive night festival that revolves aro
 Editors: <!-- to be added -->
 Abstract: Discovery Festival Highlights
 Keywords: digital media, festival, Discovery festival.
+=======
+Author: Monique Koopmans and Maureen Voestermans  
+Editor: <!--name-->
+Abstract: Discovery Festival is the most progressive and most mature science / art / music festival in the Netherlands. These are the festival highlights of 2015.  
+Keywords: digital media, festival, Discovery festival, music, new ideas, research, art, science, nieuwe ideeën, wetenschap.
+>>>>>>> origin/master
   
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
-Font(s) used: Open Sans
+Font(s) used: LiberationMono-Regular
 
-Copyright 2015 Steve Matteson & GoogleFonts
+Licensed under the Red Hat Liberation License
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+You may find more information here:
 
-    http://www.apache.org/licenses/LICENSE-2.0
+    [redhat](https://www.redhat.com/promo/fonts/)
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+
 ...
 
 # Discovery Festival
@@ -45,8 +46,15 @@ Enter intro text here.
 ## Discovery Festival
 
 
+<<<<<<< HEAD
 **Editors:** <!-- to be added --> Discovery Festival <br>
 **Copy-editing:** <!-- to be added --> Discovery Festival<br/>
+=======
+**Authors:** Monique Koopmans and Maureen Voestermans
+**Editors:** Discovery Festival<br/>
+**Copy-editing:** PublishingLab <br/>
+
+>>>>>>> origin/master
 **Design:** OK200<br/>
 **EPUB development:** PublishingLab team existing out of; Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
 **Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the Amsterdam Creative Industries Network. <http://www.amsterdamcreativeindustries.com><br/> 

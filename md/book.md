@@ -9,6 +9,7 @@ Enter intro text here.
 ## Discovery Festival
 
 
+**Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
 
@@ -134,42 +135,6 @@ Rob van der Burg
 
 over het vergroten van de autonomie van planten
 
-# Header One
-## Header Two
-
-### Author
-
-#### Sub-header
-
-Body text doesn't have any formatting in markdown.
-
-![](imgs/example.jpg)
-
-**Bold Title** Photographer, [date]
-
-<blockquote>
-This is a blockquote, see? it's indented.
-</blockquote>
-
-<!--this is a comment-->
-
-I'll make another change blah blah blah daskljfdghjkhdfshjkds
-
-# Chapter 03
-## The philosophical nature of hashtags
-
-
-I dunno.
-
-#Chapter 4
-#CHAPTER 5
-
-
-## HELLO
-
-Dek 2 / Foyer
-
-
 # Maureen over de DIY Surgical Robot
 
 Door Maureen Voestermans
@@ -196,99 +161,6 @@ Op Discovery staat kunstenaar Frank Kolkman met zijn DIY Surgical Robot. DIY sta
 Frank Kolkman wilde weten of het mogelijk zou zijn om voor de do-it-yourself-ers ook een operatie robot te maken. Hij moest daarvoor ontzettend veel technische kennis opdoen en worstelde ook met patentkwesties en open-source idealen (iedereen zou idealiter de software van de robot moeten kunnen inzien en verbeteren). Bezoek hem om te weten wat je allemaal via eBay zou moeten bestellen om in geval van nood je eigen zorgrobot in elkaar te knutselen, maar vooral: zie die van hemzelf in actie!
 
 ![](imgs/surgerypirate-272x182.jpg)
-
-
-
-# 20PK MICRO-\
-PRESENTATIES
-
-Diverse sprekers
-
-Dek 2 / Foyer
-
-21:30 — 22:00 / 22:40 — 23:10 /
-
-00:10 — 00:40 uur
-
-De 20PK-micropresentaties bestaan uit ultrakorte verhalen\
-van een breed gezelschap van sprekers, die ieder vanuit hun eigen
-fascinatie ingaan op de vraag ‘Who’s in control?’.\
-Kom luisteren, drink een biertje en laat je volgieten met nieuwe\
-ideeën en ontwikkelingen.\
-Elk verhaal bevat 20 beelden\
-die elk 20 seconden te zien zijn. De computer is onverbiddelijk.
-Voordeel: heel veel ideeën in\
-een korte tijdspanne, en als een onderwerp je niet aanspreekt,\
-is er snel weer iets anders.\
-Met:
-
-Alegria van der Zande
-
-(ontwerper)\
-over een leerexperiment
-
-Andreas Wismeijer
-
-(Tilburg University)
-
-over bondage en dominantie
-
-Anne-Marie Geurink
-
-(De Vormforensen)
-
-over economische fabels
-
-Annemarie Kalis
-
-(Universiteit Utrecht)
-
-over zelfcontrole
-
-Arjen Siegmann
-
-(Vrije Universiteit)
-
-over verliesaversie en\
-het maken van keuzes
-
-Guszti Eiben
-
-(Vrije Universiteit)
-
-over evolutionaire robotica
-
-Jasper Nijkamp
-
-(Nederlands Kanker Instituut)
-
-over navigatietechnologie\
-in de operatiekamer
-
-Karina Pálosi
-
-(kunstenaar)
-
-over The Internet of Anonymous Things
-
-Marian Verkerk
-
-(Rijksuniversiteit Groningen)
-
-over autonomie in de zorg
-
-Menno Hurenkamp
-
-(Wiardi Beckman Stichting)
-
-over keuzevrijheid in de hedendaagse maatschappij
-
-Rob van der Burg
-
-(kunstenaar)
-
-over het vergroten van de autonomie van planten
-
 
 
 

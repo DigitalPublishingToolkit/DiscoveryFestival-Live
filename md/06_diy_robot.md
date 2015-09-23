@@ -8,14 +8,13 @@ In de hal van het ziekenhuis maakt de man herhaaldelijk vreemde huppelsprongetje
 
 Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek en een haarscherpe concentratie. Hoewel de man beschreven door Oliver Sacks een absolute topchirurg is kan hij, los van zijn syndroom, altijd een foutje maken. Fouten zijn nou eenmaal menselijk. Zou een robot op den duur veiliger en beter zijn?
 
-Druifjes hechten
+###Druifjes hechten
 Technisch gezien zijn robots goed in staat tot heel secuur werk. Kijk maar eens naar deze video waarin een robot een ontvelt druifje weer vastnaait:
-
 
 
 Maar of ze in klinische setting echt beter werk verrichten? Chirurg Jeroen Heemskerk onderzocht het en kwam met tegenvallende resultaten: “ze presteren niet beter dan chirurgen, maar zijn wel peperduur”. Inderdaad kosten de dingen ruim anderhalf miljoen, plus onderhoudskosten van een ton per jaar. Toch schaffen veel ziekenhuizen ze aan om meer patiënten te trekken die vaak de (valse) hoop hebben dat een robot beter werk verricht. Niet echt netjes… Maar wie weet: wellicht dat praktijkervaring ze op den duur toch beter maakt? Een groot voordeel zou wel zijn dat ze theoretisch op afstand bestuurd kunnen worden; specialisten zouden zo letterlijk wereldwijd kunnen opereren.
 
-Do it yourself
+###Do it yourself
 Op Discovery staat kunstenaar Frank Kolkman met zijn DIY Surgical Robot. DIY staat voor Do It Yourself: een trend waarbij mensen zelf dingen gaan doen die normaal gesproken onder het takenpakket van een expert vallen. Zo zijn er video’s op youtube waarin uitgelegd staat hoe je zelf een huis kan bouwen, maar ook hoe je zelf een vulling in je kies kan zetten:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GC8RxLnbio" frameborder="0" allowfullscreen="1"></iframe>
