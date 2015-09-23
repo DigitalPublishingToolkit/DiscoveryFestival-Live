@@ -65,7 +65,7 @@ Web: <http://www.publishinglab.nl><br/>
 This publication is available through various print on demand services.
 For more information, and a freely downloadable PDF:
 <http://**website**><br/>
-This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br><br/>
+This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br/><br/>
 ![](imgs/logos/logo_publishinglab.png)
 
 
