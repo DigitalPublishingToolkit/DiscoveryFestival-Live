@@ -1,0 +1,60 @@
+@font-face{
+    font-family: 'ReplicaStdLight';
+    font-weight: 300;
+    font-style: normal;
+    src:url('ReplicaStdLight.otf')format("opentype");
+}
+
+@font-face{
+	font-family: 'ReplicaMonoStd';
+	font-weight: normal;
+	font-style: normal;
+	src:url('ReplicaMonoStd.otf')format("opentype");
+}
+body{
+	font-size: 1em;
+	font-family: 'ReplicaStdLight';
+}
+
+p {
+    font-size:1em;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    hyphenate-after: 3;
+    hyphenate-before: 3;
+    hyphenate-lines: 2;
+    -webkit-hyphenate-after: 3;
+    -webkit-hyphenate-before: 3;
+    -webkit-hyphenate-lines: 2;
+    orphans: 2;
+    widows: 2;
+}
+
+h1,h2,h3,h4{     
+    font-family: 'ReplicaMonoStd';
+    text-transform:uppercase;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    /*page-break-before: always;*/
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    margin: 0;
+}
+
+h1{
+    font-size:1.8em;
+    color: #932C65;
+    page-break-before: always;
+}
+
+img{
+    max-width:900px;
+}
+
+figcaption{
+        font-family: 'ReplicaStdLight';
+    font-size:0.8em;
+}

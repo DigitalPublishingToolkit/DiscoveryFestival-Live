@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\.DS_Store
+FileLength:6148
+FileModTime:1442592323
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ReplicaMonoStd
+FamilyName:Replica Mono Std
+StyleName:Regular
+MenuName:Replica Mono Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Replica Mono Std
+WritingScript:Roman
+OutlineFileName:\ReplicaMonoStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31520
+FileModTime:1249046444
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ReplicaStd-Light
+FamilyName:Replica Std
+StyleName:Light
+MenuName:Replica Std Light
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Replica Std Light
+WritingScript:Roman
+OutlineFileName:\ReplicaStdLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:85956
+FileModTime:1248934760
+%EndFont
+

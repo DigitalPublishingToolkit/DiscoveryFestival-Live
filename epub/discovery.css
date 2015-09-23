@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'LiberationMono-Regular';
+    font-weight: normal;
+    font-style: normal;
+    src:url('LiberationMono-Regular.otf')format("opentype");
+}
+
+body {
+	font-size: 1em;
+	font-family: 'LiberationMono-Regular';
+}
+
+p {
+    font-size: 0.9em;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    hyphenate-after: 3;
+    hyphenate-before: 3;
+    hyphenate-lines: 2;
+    -webkit-hyphenate-after: 3;
+    -webkit-hyphenate-before: 3;
+    -webkit-hyphenate-lines: 2;
+    orphans: 2;
+    widows: 2;
+}
+
+h1,h2,h3,h4 {     
+    font-family: 'LiberationMono-Regular';
+    text-transform:uppercase;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    /*page-break-before: always;*/
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    margin: 0;
+}
+
+h1 {
+    font-size:1.8em;
+    color: #58c7ce;
+    page-break-before: always;
+}
+
+blockquote {
+    font-size: 0.9em;
+    padding-left: 1.2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 1.2em;
+    margin-left: 0px;
+    border: 2px #000 solid;
+    margin-top: 1.6em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+}
+
+img {
+    max-width:900px;
+}
+
+figcaption {
+    font-family: 'ReplicaStdLight';
+    font-size:0.8em;
+}
