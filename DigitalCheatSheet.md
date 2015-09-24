@@ -16,4 +16,10 @@ This is body text (no formating).
 
 [name of the link](http://publishinglab.nl)
 
+![](imgs/example.jpg)
 
+![](md/imgs/example.jpg "alt text")
+
+/* empty line */
+
+<blockquote>This is a block quote </blockquote>
