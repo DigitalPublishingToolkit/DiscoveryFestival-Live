@@ -52,6 +52,10 @@ Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek e
 
 #### Druifjes hechten
 Technisch gezien zijn robots goed in staat tot heel secuur werk. Kijk maar eens naar deze video waarin een robot een ontvelt druifje weer vastnaait:
+# Discovery Festial Sponsors
+
+![This European Researchers' Night project is funded by the 
+European Commission under the Marie Skłodowska-Curie actions.](imgs/logos/DF-Sponsors.png)
 # Maureen over de DIY Surgical Robot
 
 Door Maureen Voestermans
@@ -78,9 +82,5 @@ Frank Kolkman wilde weten of het mogelijk zou zijn om voor de do-it-yourself-ers
 
 ![](imgs/surgerypirate-272x182.jpg)
 
-# Discovery Festial Sponsors
-
-![This European Researchers' Night project is funded by the 
-European Commission under the Marie Skłodowska-Curie actions.](imgs/logos/DF-Sponsors.png)
 
 
