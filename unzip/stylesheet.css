@@ -1,23 +1,24 @@
-@font-face{
-    font-family: 'ReplicaStdLight';
-    font-weight: 300;
+@font-face {
+    font-family: 'LiberationMono-Regular';
+    font-weight: normal;
     font-style: normal;
-    src:url('ReplicaStdLight.otf')format("opentype");
+    src:url('LiberationMono-Regular.otf')format("opentype");
 }
 
-@font-face{
-	font-family: 'ReplicaMonoStd';
-	font-weight: normal;
-	font-style: normal;
-	src:url('ReplicaMonoStd.otf')format("opentype");
+@font-face {
+    font-family: 'LiberationMono-Bold';
+    font-weight: bold;
+    font-style: normal;
+    src:ul('LiberationMono-Bold.otf')format("opentype");
 }
-body{
+
+body {
 	font-size: 1em;
-	font-family: 'ReplicaStdLight';
+	font-family: 'LiberationMono-Regular';
 }
 
 p {
-    font-size:1em;
+    font-size: 0.9em;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
@@ -31,8 +32,8 @@ p {
     widows: 2;
 }
 
-h1,h2,h3,h4{     
-    font-family: 'ReplicaMonoStd';
+h1,h2,h3,h4 {     
+    font-family: 'LiberationMono-Regular';
     text-transform:uppercase;
     hyphens: none !important;
     -moz-hyphens: none !important;
@@ -44,17 +45,47 @@ h1,h2,h3,h4{
     margin: 0;
 }
 
-h1{
+h1 {
     font-size:1.8em;
-    color: #932C65;
+    color: #58c7ce;
     page-break-before: always;
 }
 
-img{
+h2 {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+blockquote {
+    font-size: 0.9em;
+    padding-left: 1.2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 1.2em;
+    margin-left: 0px;
+    border: 2px #000 solid;
+    margin-top: 1.6em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+}
+
+img {
     max-width:900px;
 }
 
-figcaption{
-        font-family: 'ReplicaStdLight';
+figcaption {
     font-size:0.8em;
+}
+
+a {
+    color: #58c7ce;
 }
