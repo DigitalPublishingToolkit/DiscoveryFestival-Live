@@ -38,7 +38,7 @@ You may find more information here:
 
 # Discovery Festival
 
-Enter intro text here.
+Discovery Festival is the most progressive and most mature science / art / music festival in the Netherlands. These are the festival highlights of 2015.
 
 
 # Colophon
@@ -67,8 +67,10 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-<a href="ch002.xhtml">Introduction</a><br/>
+<a href="ch002.xhtml">Discovery Festival</a><br/>
 
-<a href="ch003.xhtml">Title</a><br/>
+<a href="ch003.xhtml">Colophon</a><br/>
+
+<a href="ch004.xhtml">Contents</a><br/>
 <br/>
-<a href="ch004.xhtml">Maureen over de DIY Surgical Robot</a>
+<a href="ch005.xhtml">Maureen over de DIY Surgical Robot</a>
