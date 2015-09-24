@@ -9,8 +9,8 @@ Enter intro text here.
 ## Discovery Festival
 
 
-<<<<<<< HEAD
-**Editors:** <!-- to be added --> Discovery Festival <br>
+<!--HEAD-->
+**Head Editors:** <!-- to be added --> Discovery Festival
 **Copy-editing:** <!-- to be added --> Discovery Festival<br/>
 =======
 **Authors:** Monique Koopmans and Maureen Voestermans
