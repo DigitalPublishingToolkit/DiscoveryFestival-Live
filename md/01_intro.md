@@ -11,5 +11,5 @@ In de hal van het ziekenhuis maakt de man herhaaldelijk vreemde huppelsprongetje
 
 Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek en een haarscherpe concentratie. Hoewel de man beschreven door Oliver Sacks een absolute topchirurg is kan hij, los van zijn syndroom, altijd een foutje maken. Fouten zijn nou eenmaal menselijk. Zou een robot op den duur veiliger en beter zijn?
 
-## Druifjes hechten
+**Druifjes hechten**
 Technisch gezien zijn robots goed in staat tot heel secuur werk. Kijk maar eens naar deze video waarin een robot een ontvelt druifje weer vastnaait:
