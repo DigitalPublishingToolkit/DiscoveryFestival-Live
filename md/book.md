@@ -16,7 +16,6 @@ Enter intro text here.
 **Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
-
 >>>>>>> origin/master
 **Design:** OK200<br/>
 **EPUB development:** PublishingLab team existing out of; Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
