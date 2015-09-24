@@ -35,7 +35,7 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 <a href="ch005.xhtml">Title</a><br/>
 <br/>
-# Article Title: Maureen over de DIY Surgical Robot
+#Article Title: Maureen over de DIY Surgical Robot
 
 ## Text/Paragraph header
 
