@@ -42,6 +42,7 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 ### Author/event subheader: Maureen Voestermans
 
 <!--body text has no tags-->
+[Discovery Festival](http://www.discoveryfestival.nl/)
 This is a real hashtag, not header \#grumpycat
 In de hal van het **ziekenhuis** maakt de man herhaaldelijk vreemde huppelsprongetjes. Ook heeft hij daarbij de nijging om steeds naar de grond te duiken alsof hij iets opraapt en om met twee vingers tegelijkertijd de muur aan te raken. Als de man de operatiekamer inloopt gaat hij ook ineens vreemde pikkende bewegingen maken met zijn handen, inmiddels in latex handschoenen gestoken: de operatie gaat beginnen. De man is chirurg Bennett, uitvoerig beschreven door wijlen Oliver Sacks in zijn prachtige boek Een antropoloog op Mars. Bennett lijdt aan het syndroom van Gilles de la Tourette, waarbij mensen extreem dwangmatig gedrag vertonen (en vaak ook dwangmatige gedachten hebben). Als Bennett echter zijn scalpel ter hand neemt verdwijnen zijn tics volledig: met extreme precisie snijdt hij weefsel, en hecht het even nauwkeurig weer aan elkaar.
 
