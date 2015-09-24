@@ -78,5 +78,9 @@ Frank Kolkman wilde weten of het mogelijk zou zijn om voor de do-it-yourself-ers
 
 ![](imgs/surgerypirate-272x182.jpg)
 
+# Discovery Festial Sponsors
+
+![This European Researchers' Night project is funded by the 
+European Commission under the Marie Skłodowska-Curie actions.](imgs/logos/DF-Sponsors.png)
 
 
