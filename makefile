@@ -82,6 +82,7 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/discovery.css epu
 		--default-image-extension png \
 		--toc-depth=1 \
 		--epub-embed-font=../lib/LiberationMono-Regular.otf \
+		--epub-embed-font=../lib/LiberationMono-Bold.otf \
 		-o ../book.epub \
 		book.md && \
 		cd .. && \

@@ -5,6 +5,13 @@
     src:url('LiberationMono-Regular.otf')format("opentype");
 }
 
+@font-face {
+    font-family: 'LiberationMono-Bold';
+    font-weight: bold;
+    font-style: normal;
+    src:ul('LiberationMono-Bold.otf')format("opentype");
+}
+
 body {
 	font-size: 1em;
 	font-family: 'LiberationMono-Regular';
