@@ -1,7 +1,7 @@
 
 # Discovery Festival
 
-Enter intro text here.
+Discovery Festival is the most progressive and most mature science / art / music festival in the Netherlands. These are the festival highlights of 2015.
 
 
 # Colophon
@@ -30,12 +30,14 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-<a href="ch002.xhtml">Introduction</a><br/>
+<a href="ch002.xhtml">Discovery Festival</a><br/>
 
-<a href="ch003.xhtml">Title</a><br/>
+<a href="ch003.xhtml">Colophon</a><br/>
+
+<a href="ch004.xhtml">Contents</a><br/>
 <br/>
-<a href="ch004.xhtml">Maureen over de DIY Surgical Robot</a>
-#Article Title: Maureen over de DIY Surgical Robot
+<a href="ch005.xhtml">Maureen over de DIY Surgical Robot</a>
+# Article Title: Maureen over de DIY Surgical Robot
 
 ## Text/Paragraph header
 
@@ -52,7 +54,7 @@ Om chirurg te worden moet je bezitten over een hoog ontwikkelde fijne motoriek e
 
 #### Druifjes hechten
 Technisch gezien zijn robots goed in staat tot heel secuur werk. Kijk maar eens naar deze video waarin een robot een ontvelt druifje weer vastnaait:
-# Discovery Festial Sponsors
+# Discovery Festival Sponsors
 
 ![This European Researchers' Night project is funded by the 
 European Commission under the Marie Skłodowska-Curie actions.](imgs/logos/DF-Sponsors.png)
