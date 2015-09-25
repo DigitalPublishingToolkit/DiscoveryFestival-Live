@@ -19,9 +19,7 @@ Discovery Festival is the most progressive and most mature science / art / music
 **Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the Amsterdam Creative Industries Network. <http://www.amsterdamcreativeindustries.com><br/> 
 **Contact:** PublishingLab, <http://www.publishinglab.org><br/>
 
-This publication is available through various print on demand services. For more information, and a freely downloadable PDF:
-<http://**website**><br/>
-This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br/><br/>
+
 ![](imgs/logos/logo_publishinglab.png)
 
 
