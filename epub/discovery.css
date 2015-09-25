@@ -43,7 +43,7 @@ h1,h2,h3,h4 {
     /*page-break-before: always;*/
     page-break-after: avoid;
     page-break-inside: avoid;
-    margin: 0;
+    margin: 0.5em, 0;
 }
 
 h1 {
