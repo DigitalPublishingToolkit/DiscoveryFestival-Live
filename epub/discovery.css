@@ -15,8 +15,8 @@
 html {
     margin:-200px;
     padding:200px;
-    background-image: url(background.png);
-    background-size: 400px 400px;
+        background-image: url(tnp/media/background.png)  no-repeat center center;
+
 }
 
 body {
@@ -25,8 +25,7 @@ body {
     margin: 0;
     margin:-200px;
     padding:200px;
-        background-image: url(background.png);
-    background-size: 400px 400px;
+        background-image: url(tnp/media/background.png)  no-repeat center center;
 }
 
 p {
