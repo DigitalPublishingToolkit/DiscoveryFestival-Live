@@ -47,7 +47,9 @@ background: -webkit-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%
 background: -o-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 background: -ms-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 background: radial-gradient(ellipse at center, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );      
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );  
+    background-image: url(cover.png);
+    background-size: auto;
 
 
 
