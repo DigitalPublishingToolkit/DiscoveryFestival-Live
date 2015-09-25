@@ -9,7 +9,6 @@ Discovery Festival is the most progressive and most mature science / art / music
 ## Discovery Festival
 
 
-<!--HEAD-->
 **Head Editors:** <!-- to be added --> Discovery Festival
 **Copy-editing:** <!-- to be added --> Discovery Festival<br/>
 **Authors:** Monique Koopmans and Maureen Voestermans
