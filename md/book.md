@@ -93,6 +93,8 @@ Wat als je in een film kan kiezen waar je kan gaan staan? Dat er meerdere verhaa
 
 # Neurotransmitter 3000
 
+## Slingeren met hersengolven
+
 ![](imgs/IMG_0583small.jpg)
 <blockquote>"beetje een astronauten-training dit"</blockquote>
 
