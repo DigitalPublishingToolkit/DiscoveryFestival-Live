@@ -41,9 +41,17 @@ p {
     orphans: 2;
     widows: 2;
     line-height: 1.5em;
-      background-color: #58c7ce; // Old browsers
-@include filter-gradient(#58c7ce, #ffffff, horizontal); // IE6-9 fallback on horizontal gradient
-@include background-image(radial-gradient(center, ellipse cover, #58c7ce 0%,#ffffff 54%,#ffffff 100%));
+    background: rgba(88,198,206,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(88,198,206,1)), color-stop(65%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: radial-gradient(ellipse at center, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );      
+
+
+
 }
 
 h1,h2,h3,h4 {     
