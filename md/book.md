@@ -61,7 +61,8 @@ Thanks to the sponsors of Discovery Festival:
 
 # Neurotransmitter 3000
 
-![caption?](imgs/IMG_0583small.jpg "beetje een astronauten-training dit")
+![](imgs/IMG_0583small.jpg)
+"beetje een astronauten-training dit"
 > ## This is a header.
 > 
 > 1.   This is the first list item.
