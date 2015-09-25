@@ -47,6 +47,8 @@ h1,h2,h3,h4 {
     page-break-after: avoid;
     page-break-inside: avoid;
     margin: 0.5em, 0;
+        background-color: #58c7ce;
+
 }
 
 h1 {
