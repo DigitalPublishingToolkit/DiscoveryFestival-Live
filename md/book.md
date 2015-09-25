@@ -37,6 +37,12 @@ Discovery Festival is the most progressive and most mature science / art / music
 
 
 
+# Discovery Festival Sponsors
+
+This European Researchers' Night project is funded by the European Commission under the Marie Skłodowska-Curie actions.
+
+Thanks to the sponsors of Discovery Festival:
+![](imgs/logos/DF-Sponsors.png)
 # ROBOTKLEUTERSCHOOL 
 
 ## Evoluerende robots
@@ -60,12 +66,6 @@ Onderzoekers van de VU laten zien hoe hun robots zonder menselijk ingrijpen baby
 Ook brengen de onderzoekers hun kleuterschool met klunzige robotjes naar Discovery Festival. Ze willen erachter komen hoe het leerproces in een groep robots werkt. De robots krijgen een taak – bijvoorbeeld het ontwijken van obstakels – maar er wordt hen niet verteld hoe ze deze moeten volbrengen. Autonoom voeren ze hun taak uit. Als er eentje achter komt, vertelt hij het dan aan de anderen? Kom naar de Robotkleuterschool en kijk zelf naar de robotjes in opleiding. Lukt het ze om niet te botsen, 
 of wordt het huilen?
 
-# Discovery Festival Sponsors
-
-This European Researchers' Night project is funded by the European Commission under the Marie Skłodowska-Curie actions.
-
-Thanks to the sponsors of Discovery Festival:
-![](imgs/logos/DF-Sponsors.png)
 # Sweet spots
 ## Muzikale hoofdmassage
 
