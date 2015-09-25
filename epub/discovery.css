@@ -13,7 +13,10 @@
 }
 
 html {
-      background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */   background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */   background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */   background: linear-gradient(red, blue); /* Standard syntax */
+     /* background: -webkit-linear-gradient(red, blue);
+    background: -o-linear-gradient(red, blue);
+    background: -moz-linear-gradient(red, blue);
+    background: linear-gradient(red, blue);*/
     margin:-200px;
     padding:200px;
 }
@@ -22,7 +25,7 @@ body {
 	font-size: 0.8em;
 	font-family: 'LiberationMono-Regular';
     margin: 0;
-      background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */   background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */   background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */   background: linear-gradient(red, blue); /* Standard syntax */
+
     margin:-200px;
     padding:200px;
 }
@@ -65,8 +68,14 @@ h1,h2,h3,h4 {
     page-break-after: avoid;
     page-break-inside: avoid;
     margin: 0.5em, 0;
-          background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */   background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */   background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */   background: linear-gradient(red, blue); /* Standard syntax */
-
+        background: rgba(88,198,206,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(88,198,206,1)), color-stop(65%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+background: radial-gradient(ellipse at center, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );   
 }
 
 h1 {
