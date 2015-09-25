@@ -28,8 +28,8 @@ p {
     -webkit-hyphenate-after: 3;
     -webkit-hyphenate-before: 3;
     -webkit-hyphenate-lines: 2;
-    orphans: 2;
-    widows: 2;
+   /* orphans: 2;
+    widows: 2;*/
     line-height: 1.5em;
         background-color: #58c7ce;
 
