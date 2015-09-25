@@ -106,6 +106,7 @@ Een relatie dus, tussen mens en machine. Tijdens Discovery Festival zal Daniël 
 <blockquote>“ik ga hier echt niet de hele avond inzitten hoor dan wordt ik echt helemaal gek”</blockquote>
 
 # Sweet spots
+## Muzikale hoofdmassage
 
 ![](imgs/Sweet-spots.jpg)
 
