@@ -12,11 +12,9 @@ Discovery Festival is the most progressive and most mature science / art / music
 <!--HEAD-->
 **Head Editors:** <!-- to be added --> Discovery Festival
 **Copy-editing:** <!-- to be added --> Discovery Festival<br/>
-=======
 **Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
->>>>>>> origin/master
 **Design:** OK200<br/>
 **EPUB development:** PublishingLab team existing out of; Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
 **Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the Amsterdam Creative Industries Network. <http://www.amsterdamcreativeindustries.com><br/> 
