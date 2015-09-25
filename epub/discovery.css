@@ -15,16 +15,18 @@
 html {
     margin:-200px;
     padding:200px;
+        background-image: url(background.png);
+    background-size: 400px 400px;
 }
 
 body {
 	font-size: 0.8em;
 	font-family: 'LiberationMono-Regular';
     margin: 0;
-
     margin:-200px;
     padding:200px;
-    
+        background-image: url(background.png);
+    background-size: 400px 400px;
 }
 
 p {
@@ -50,8 +52,7 @@ background: -ms-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rg
 background: radial-gradient(ellipse at center, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );  
 
-    background-image: url(background.png);
-    background-size: 400px 400px;
+
 
 
 }
