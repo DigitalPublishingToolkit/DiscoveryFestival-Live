@@ -48,7 +48,9 @@ Lorem ipsum, This is a real hashtag, not header \#grumpycat and this is **bold**
 
 # Discovery Festival Sponsors
 
-![This European Researchers' Night project is funded by the 
-European Commission under the Marie Skłodowska-Curie actions.](imgs/logos/DF-Sponsors.png)
+This European Researchers' Night project is funded by the European Commission under the Marie Skłodowska-Curie actions.
+
+Thanks to the sponsors of Discovery Festival:
+![](imgs/logos/DF-Sponsors.png)
 
 
