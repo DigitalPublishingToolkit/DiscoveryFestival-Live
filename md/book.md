@@ -63,6 +63,7 @@ Thanks to the sponsors of Discovery Festival:
 
 ![](imgs/IMG_0583small.jpg)
 "beetje een astronauten-training dit"
+
 # Sweet spots
 
 ![](imgs/Sweet-spots.jpg)
@@ -70,5 +71,6 @@ Thanks to the sponsors of Discovery Festival:
 <blockquote>“Mmmm dit is wel lekker!”</blockquote>
 
 Bij Sweet Spots laten mensen hun hoofd masseren terwijl ze muziek luisteren. Maar niet zomaar: door het tempo van het masseren aan te passen met knopjes aan de stoel wordt de muziek ook anders. De uitdaging is om een perfecte balans tussen beide te vinden: een ritmische massage.
+
 
 
