@@ -48,8 +48,7 @@ background: -o-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgb
 background: -ms-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 background: radial-gradient(ellipse at center, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );  
-    background-image: url(cover.png);
-    background-size: auto;
+
 
 
 
@@ -66,6 +65,8 @@ h1,h2,h3,h4 {
     page-break-after: avoid;
     page-break-inside: avoid;
     margin: 0.5em, 0;
+        background-image: url(cover.png);
+    background-size: auto;
 }
 
 h1 {
