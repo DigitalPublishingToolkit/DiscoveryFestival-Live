@@ -9,11 +9,8 @@ Discovery Festival is the most progressive and most mature science / art / music
 ## Discovery Festival
 
 
-**Head Editors:** <!-- to be added --> Discovery Festival<br/>
-**Copy-editing:** <!-- to be added --> Discovery Festival<br/>
+
 **Authors:** Monique Koopmans and Maureen Voestermans<br/>
-**Editors:** Discovery Festival<br/>
-**Copy-editing:** PublishingLab <br/>
 **Design:** OK200<br/>
 **EPUB development:** PublishingLab team, consisting of: Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
 **Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the [Amsterdam Creative Industries Network](http://www.amsterdamcreativeindustries.com)<br/> 
@@ -31,20 +28,14 @@ Discovery Festival is the most progressive and most mature science / art / music
 
 <a href="ch004.xhtml">Contents</a><br/>
 <br/>
-<a href="ch005.xhtml">Next chapter</a>
+<a href="ch005.xhtml">Robotkleuterschool</a><br/>
+</br>
+<a href="ch005.xhtml">Sweetspots</a><br/>
+</br>
+<a href="ch006.xhtml">Neurotransmitter3000</a></br>
 
 
-# Article Title: 
 
-## Text/Paragraph header
-
-### Author/event subheader: 
-
-<!--body text has no tags-->
-[Discovery Festival](http://www.discoveryfestival.nl/)
-Lorem ipsum, This is a real hashtag, not header \#grumpycat and this is **bold**. 
-
-![**Bold Caption title** + photographer name](imgs/example.jpg "Caption title, photographer name")
 
 # ROBOTKLEUTERSCHOOL 
 
@@ -75,22 +66,18 @@ This European Researchers' Night project is funded by the European Commission un
 
 Thanks to the sponsors of Discovery Festival:
 ![](imgs/logos/DF-Sponsors.png)
-# Article Title: A Perfect Party
+# Sweet spots
+## Muzikale hoofdmassage
 
-## Text/Paragraph header
+![](imgs/Sweet-spots.jpg)
 
-### Author/event subheader: 
+Sweet Spots is een muzikaal experiment, waarin naast geluid ook aanraking een rol speelt. Onder begeleiding van een machinale massage probeer je controle te krijgen over verschillende ritmes. Neem plaats, draai aan de knoppen, en vind de sweet spot waar de ritmische aanrakingen en geluiden samenkomen en één worden.
 
-<!--body text has no tags-->
+<blockquote>“Mmmm dit is wel lekker!”</blockquote>
 
-![**Bold Caption title** + photographer name](imgs/A-Perfect-party.jpg "Caption title, photographer name")
+Roland van Dierendonck en Matei Szabo maakten Sweet Spots in de opleiding Media Technology van de Universiteit Leiden, waarin studenten van verschillende achtergronden worden uitgedaagd om autonome wetenschappers te worden, bijvoorbeeld door te knutselen met nieuwe technologieën.
 
-<blockquote>
-“Wauw dit ziet er wel echt vet uit”
-</blockquote>
-
-Wat als je in een film kan kiezen waar je kan gaan staan? Dat er meerdere verhaallijnen zijn en je zelf kan bepalen bij welke acteurs je in een scene gaat bekijken? Filmmaking 2.0. Bij A Perfect Party bepaal je zelf als kijker hoe de film verloopt.
-
+<blockquote>“Het lijkt wel alsof hij naar de kapper gaat.”</blockquote>
 # Neurotransmitter 3000
 
 ## Slingeren met hersengolven
@@ -105,17 +92,5 @@ Een relatie dus, tussen mens en machine. Tijdens Discovery Festival zal Daniël 
 
 <blockquote>“ik ga hier echt niet de hele avond inzitten hoor dan wordt ik echt helemaal gek”</blockquote>
 
-# Sweet spots
-## Muzikale hoofdmassage
-
-![](imgs/Sweet-spots.jpg)
-
-Sweet Spots is een muzikaal experiment, waarin naast geluid ook aanraking een rol speelt. Onder begeleiding van een machinale massage probeer je controle te krijgen over verschillende ritmes. Neem plaats, draai aan de knoppen, en vind de sweet spot waar de ritmische aanrakingen en geluiden samenkomen en één worden.
-
-<blockquote>“Mmmm dit is wel lekker!”</blockquote>
-
-Roland van Dierendonck en Matei Szabo maakten Sweet Spots in de opleiding Media Technology van de Universiteit Leiden, waarin studenten van verschillende achtergronden worden uitgedaagd om autonome wetenschappers te worden, bijvoorbeeld door te knutselen met nieuwe technologieën.
-
-<blockquote>“Het lijkt wel alsof hij naar de kapper gaat.”</blockquote>
 
 
