@@ -10,7 +10,7 @@
 “Maken ze nu echt een robotkindje?”
 </blockquote>
 
-![**Bold Caption title** + photographer name](imgs/Robotkleurschool-IMG_0589small.jpg "Caption title, photographer name")
+![**Bold Caption title** + photographer name](imgs/Robotkleurschool-IMG_0589small.jpg)
 
 <blockquote>het DNA van de papa. Als ze een kind maken dan sturen ze dit brein naar een computer waar het crossover en muteert en dat printen wij dan weer op een plaat tot een kindje." Dus.</blockquote>
 
