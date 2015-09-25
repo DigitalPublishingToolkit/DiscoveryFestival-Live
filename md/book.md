@@ -28,15 +28,12 @@ Discovery Festival is the most progressive and most mature science / art / music
 <a href="ch003.xhtml">Colophon</a><br/>
 
 <a href="ch004.xhtml">Contents</a><br/>
-<br/>
+
 <a href="ch005.xhtml">Robotkleuterschool</a><br/>
-</br>
+
 <a href="ch005.xhtml">Sweetspots</a><br/>
-</br>
+
 <a href="ch006.xhtml">Neurotransmitter3000</a></br>
-
-
-
 
 # Discovery Festival Sponsors
 
