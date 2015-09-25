@@ -2,6 +2,9 @@
 
 ![](imgs/Sweet-spots.jpg)
 
-<blockquote>“Mmmm dit is wel lekker!”</blockquote>
+Sweet Spots is een muzikaal experiment, waarin naast geluid ook aanraking een rol speelt. Onder begeleiding van een machinale massage probeer je controle te krijgen over verschillende ritmes. Neem plaats, draai aan de knoppen, en vind de sweet spot waar de ritmische aanrakingen en geluiden samenkomen en één worden.
 
-Bij Sweet Spots laten mensen hun hoofd masseren terwijl ze muziek luisteren. Maar niet zomaar: door het tempo van het masseren aan te passen met knopjes aan de stoel wordt de muziek ook anders. De uitdaging is om een perfecte balans tussen beide te vinden: een ritmische massage.
+<blockquote>“Mmmm dit is wel lekker!”</blockquote>
+Roland van Dierendonck en Matei Szabo maakten Sweet Spots in de opleiding Media Technology van de Universiteit Leiden, waarin studenten van verschillende achtergronden worden uitgedaagd om autonome wetenschappers te worden, bijvoorbeeld door te knutselen met nieuwe technologieën.
+
+<blockquote>“Het lijkt wel alsof hij naar de kapper gaat.”</blockquote>
