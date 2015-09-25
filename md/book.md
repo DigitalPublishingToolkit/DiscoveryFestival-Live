@@ -31,7 +31,7 @@ Discovery Festival is the most progressive and most mature science / art / music
 
 <a href="ch004.xhtml">Contents</a><br/>
 <br/>
-<a href="ch005.xhtml">Maureen over de DIY Surgical Robot</a>
+<a href="ch005.xhtml">Next chapter</a>
 
 
 # Article Title: 
