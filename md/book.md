@@ -86,13 +86,6 @@ This European Researchers' Night project is funded by the European Commission un
 
 Thanks to the sponsors of Discovery Festival:
 ![](imgs/logos/DF-Sponsors.png)
-
-# Testing video embedd
-
-<video width="320" height="240" controls="controls">
-<source src="videos/IMG_0599.mp4" type="video/mp4" />
-</video>
-
 # Neurotransmitter 3000
 
 ![](imgs/IMG_0583small.jpg)
