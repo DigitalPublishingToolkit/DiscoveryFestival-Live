@@ -41,8 +41,9 @@ p {
     orphans: 2;
     widows: 2;
     line-height: 1.5em;
-      background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */   background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */   background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */   background: linear-gradient(red, blue); /* Standard syntax */
-
+      background-color: #58c7ce; // Old browsers
+@include filter-gradient(#58c7ce, #ffffff, horizontal); // IE6-9 fallback on horizontal gradient
+@include background-image(radial-gradient(center, ellipse cover, #58c7ce 0%,#ffffff 54%,#ffffff 100%));
 }
 
 h1,h2,h3,h4 {     
