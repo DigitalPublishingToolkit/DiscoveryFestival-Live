@@ -95,8 +95,8 @@ end tell
       
       
 <video id="asteroids_video" width="480" height="270" controls="controls">
-<source src="video/html5_asteroids.mp4" type="video/mp4"/>
-<source src="video/html5_asteroids.ogg" type="video/ogg"/>
+<source src="video/IMG_0599.mov" type="video/mp4"/>
+<source src="md/video/IMG_0599" type="video/ogg"/>
 <em>(Sorry, &lt;video&gt; element not supported in your
   browser/ereader, so you will not be able to watch this video.)</em>
 </video>
