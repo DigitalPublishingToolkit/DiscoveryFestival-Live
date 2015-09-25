@@ -13,12 +13,12 @@
 }
 
 body {
-	font-size: 0.7em;
+	font-size: 0.8em;
 	font-family: 'LiberationMono-Regular';
 }
 
 p {
-    font-size: 0.7em;
+    font-size: 0.8em;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
@@ -30,7 +30,7 @@ p {
     -webkit-hyphenate-lines: 2;
     orphans: 2;
     widows: 2;
-    line-height: 0.9em;
+    line-height: 1em;
 }
 
 h1,h2,h3,h4 {     
