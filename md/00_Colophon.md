@@ -8,7 +8,6 @@ Anthology item: article
 Item-id:   
 Article-title: Discovery Festival Highlights 
 Article-status: accepted  
-<<<<<<< HEAD
 Authors: <!-- to be added --> Discovery Festival 
 Photographers: <!-- to be added --> Discovery Festival
 Author-email: puck@discoveryfestival.nl
@@ -16,12 +15,6 @@ Author-bio: Discovery Festival is a progressive night festival that revolves aro
 Editors: <!-- to be added -->
 Abstract: Discovery Festival Highlights
 Keywords: digital media, festival, Discovery festival.
-=======
-Author: Monique Koopmans and Maureen Voestermans  
-Editor: <!--name-->
-Abstract: Discovery Festival is the most progressive and most mature science / art / music festival in the Netherlands. These are the festival highlights of 2015.  
-Keywords: digital media, festival, Discovery festival, music, new ideas, research, art, science, nieuwe ideeën, wetenschap.
->>>>>>> origin/master
   
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
@@ -49,11 +42,9 @@ Discovery Festival is the most progressive and most mature science / art / music
 <!--HEAD-->
 **Head Editors:** <!-- to be added --> Discovery Festival
 **Copy-editing:** <!-- to be added --> Discovery Festival<br/>
-=======
 **Authors:** Monique Koopmans and Maureen Voestermans
 **Editors:** Discovery Festival<br/>
 **Copy-editing:** PublishingLab <br/>
->>>>>>> origin/master
 **Design:** OK200<br/>
 **EPUB development:** PublishingLab team existing out of; Josip Batinic, Joana Chicau, Inte Gloerich, Gottfried Haider, Anatasia Kubrak, Margreet Riphagen, Léna Robin, Karina Zavidova, Jess van Zyl<br/>
 **Publisher:** PublishingLab in collaboration with Discovery Festival, Amsterdam, 2015. PublishingLab is part of the Amsterdam Creative Industries Network. <http://www.amsterdamcreativeindustries.com><br/> 
