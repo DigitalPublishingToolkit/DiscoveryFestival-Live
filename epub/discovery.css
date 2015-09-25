@@ -30,7 +30,7 @@ p {
     -webkit-hyphenate-lines: 2;
     orphans: 2;
     widows: 2;
-    line-height: 1em;
+    line-height: 1.5em;
 }
 
 h1,h2,h3,h4 {     
