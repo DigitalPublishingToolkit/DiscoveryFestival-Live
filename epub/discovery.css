@@ -41,6 +41,7 @@ p {
     -webkit-hyphenate-lines: 2;
     orphans: 2;
     widows: 2;
+
     line-height: 1.5em;
     background: rgba(88,198,206,1);
 background: -moz-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
@@ -50,7 +51,6 @@ background: -o-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgb
 background: -ms-radial-gradient(center, ellipse cover, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 background: radial-gradient(ellipse at center, rgba(88,198,206,1) 0%, rgba(255,255,255,1) 65%, rgba(255,255,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#58c6ce', endColorstr='#ffffff', GradientType=1 );  
-
 
 
 
