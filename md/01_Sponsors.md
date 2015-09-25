@@ -4,3 +4,4 @@ This European Researchers' Night project is funded by the European Commission un
 
 Thanks to the sponsors of Discovery Festival:
 ![](imgs/logos/DF-Sponsors.png)
+
