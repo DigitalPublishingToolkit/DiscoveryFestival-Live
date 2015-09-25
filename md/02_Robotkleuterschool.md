@@ -1,10 +1,10 @@
-# Article Title: ROBOTKLEUTERSCHOOL 
+# ROBOTKLEUTERSCHOOL 
 
-## Text/Paragraph header
+## Evoluerende robots
 
-### Author/event subheader: 
-
-<!-- insert video -->
+<video width="320" height="240" controls="controls" autoplay="autoplay" loop="loop">
+<source src="videos/IMG_0599.mp4" type="video/mp4" />
+</video>
 
 <blockquote>
 “Maken ze nu echt een robotkindje?”
