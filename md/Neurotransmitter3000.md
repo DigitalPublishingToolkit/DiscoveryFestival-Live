@@ -1,5 +1,7 @@
 # Neurotransmitter 3000
 
+## Slingeren met hersengolven
+
 ![](imgs/IMG_0583small.jpg)
 <blockquote>"beetje een astronauten-training dit"</blockquote>
 
