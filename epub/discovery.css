@@ -15,7 +15,6 @@
 body {
 	font-size: 0.8em;
 	font-family: 'LiberationMono-Regular';
-    background-color: #58c7ce;
 }
 
 p {
@@ -32,6 +31,8 @@ p {
     orphans: 2;
     widows: 2;
     line-height: 1.5em;
+        background-color: #58c7ce;
+
 }
 
 h1,h2,h3,h4 {     
