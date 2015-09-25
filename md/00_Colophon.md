@@ -63,4 +63,4 @@ Discovery Festival is the most progressive and most mature science / art / music
 
 <a href="ch005.xhtml">Sweetspots</a><br/>
 
-<a href="ch006.xhtml">Neurotransmitter3000</a></br>
+<a href="ch006.xhtml">Neurotransmitter3000</a><br/>
