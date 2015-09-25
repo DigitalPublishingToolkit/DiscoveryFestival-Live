@@ -69,7 +69,7 @@ Thanks to the sponsors of Discovery Festival:
 # Sweet spots
 ## Muzikale hoofdmassage
 
-![](imgs/Sweet-spots.jpg)
+![](imgs/Sweet-spots.jpg =700x)
 
 Sweet Spots is een muzikaal experiment, waarin naast geluid ook aanraking een rol speelt. Onder begeleiding van een machinale massage probeer je controle te krijgen over verschillende ritmes. Neem plaats, draai aan de knoppen, en vind de sweet spot waar de ritmische aanrakingen en geluiden samenkomen en één worden.
 
